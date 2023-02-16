@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abidrazaa/backend-node.git"
+    "url": "git+https://github.com/Anuj2818/ScrapArt-backend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abidrazaa/backend-node/issues"
+    "url": "https://github.com/Anuj2818/ScrapArt-backend/issues"
   },
-  "homepage": "https://github.com/abidrazaa/backend-node#readme",
+  "homepage": "https://github.com/Anuj2818/ScrapArt-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.0",
